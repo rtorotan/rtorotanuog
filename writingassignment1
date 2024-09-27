@@ -2,6 +2,24 @@
 <html>
 
 <head>
-  <title>CIS*1250 Template</title>
+  <title>Writing Assignment 1</title>
   <meta name="google" content="notranslate">
 </head>
+
+<body>
+  <h1>An Example of Software That is Designed Well</h1>
+  <p>An example of a piece of software which I think was personally well designed would be a stock trading software developed by 
+    Interactive Brokers, it is a stock trading software which I have used to buy, sell and check on stocks. 
+    I am very much pleased with their desktop interface as they have recently updated the software to make the user interface friendlier 
+    and more pleasing to look at compared to the previous which preceded the current one. The interface is sleeker, and has been made more 
+    simple by grouping certain functions and tasks together, which was not what the previous user interface looked like. 
+    This makes it very easy for me to look at charts, and to correctly understand what kind of order I am placing and what the implications 
+    of that order would be. An important update to this new user interface was the simplification of the stock market screener, 
+    which is a tool that can sort stocks by certain filters. The stock screener in the last user interface was really complex to use and was 
+    limited to only a few keywords and filters.</p>
+  <h1>Why Software Design is Important</h1>
+  <p>It is important to learn software design and to constantly revamp existing software to fit an ever-expanding market or audience. 
+    In this instance, Interactive Brokers, due to a large influx of new users who may have been overwhelmed by their previous software’s 
+    user interface, had decided to revamp it and make look more modern and refreshed. This update also ensured that their software would 
+    not look obsolete, compared to their competitors (such as Webull and Questrade), which is another reason as to why software design is 
+    important, as new technology implemented within your software can help you have an edge over your competitors.</p>
